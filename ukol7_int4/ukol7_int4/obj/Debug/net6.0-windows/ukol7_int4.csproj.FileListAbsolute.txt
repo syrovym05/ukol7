@@ -1,0 +1,17 @@
+G:\PRG\ukol7_int4\ukol7_int4\bin\Debug\net6.0-windows\ukol7_int4.exe
+G:\PRG\ukol7_int4\ukol7_int4\bin\Debug\net6.0-windows\ukol7_int4.deps.json
+G:\PRG\ukol7_int4\ukol7_int4\bin\Debug\net6.0-windows\ukol7_int4.runtimeconfig.json
+G:\PRG\ukol7_int4\ukol7_int4\bin\Debug\net6.0-windows\ukol7_int4.dll
+G:\PRG\ukol7_int4\ukol7_int4\bin\Debug\net6.0-windows\ukol7_int4.pdb
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\ukol7_int4.csproj.AssemblyReference.cache
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\ukol7_int4.Form1.resources
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\ukol7_int4.csproj.GenerateResource.cache
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\ukol7_int4.GeneratedMSBuildEditorConfig.editorconfig
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\ukol7_int4.AssemblyInfoInputs.cache
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\ukol7_int4.AssemblyInfo.cs
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\ukol7_int4.csproj.CoreCompileInputs.cache
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\ukol7_int4.dll
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\refint\ukol7_int4.dll
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\ukol7_int4.pdb
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\ukol7_int4.genruntimeconfig.cache
+G:\PRG\ukol7_int4\ukol7_int4\obj\Debug\net6.0-windows\ref\ukol7_int4.dll
